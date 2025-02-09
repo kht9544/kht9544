@@ -15,11 +15,11 @@
 - **24.12 ~ 25.02**: Currently In Progress
 
 # **Currently In Progress**
-- C++
-- Algorithm
-- WinAPI
-- SQL
-- Server
+- [C++](https://github.com/kht9544/Cplusplus_Study)
+- [Algorithm](https://github.com/kht9544/Algorithm)
+- [WinAPI](https://github.com/kht9544/WINAPI)
+- [SQL](https://github.com/kht9544/DataBase)
+- [Server](https://github.com/kht9544/Server)
 
 
 
