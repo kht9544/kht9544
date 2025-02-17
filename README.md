@@ -3,7 +3,7 @@
 ### **기술 스택**
 - ![Github](https://img.shields.io/badge/-Github-24292f?logo=github&logoColor=white), ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white), ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-003D60?logo=unrealengine&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-00618A?logo=sqlite&logoColor=white), ![Server](https://img.shields.io/badge/-Server-000000?logo=ubuntu&logoColor=white)
 
-### **경력 사항**
+### **진행 상황**
 - **2018.03 ~ 2024.09**: 수원대학교 정보통신학과 졸업
 - **2023.03 ~ 2023.11**: [수원대 졸업작품 얼굴인식 출석체크(임베디드 담당)](https://github.com/kht9544/FaceRecongnition)
 - **2023.11 ~ 2023.12**: [1인 언리얼 프로젝트 SimpleShooter (FPS) 제작](https://github.com/kht9544/SimpleShooter)
