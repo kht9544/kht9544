@@ -1,4 +1,4 @@
-## 김현탁 포트폴리오
+## 포트폴리오
 
 ### **Skills**
 - ![Github](https://img.shields.io/badge/-Github-24292f?logo=github&logoColor=white), ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white), ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-003D60?logo=unrealengine&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-00618A?logo=sqlite&logoColor=white), ![Server](https://img.shields.io/badge/-Server-000000?logo=ubuntu&logoColor=white)
