@@ -26,4 +26,3 @@
 - [알고리즘 학습](https://github.com/kht9544/Algorithm)
 - [WinAPI 학습](https://github.com/kht9544/WINAPI)
 - [SQL 학습](https://github.com/kht9544/DataBase)
-- [서버 개발 학습](https://github.com/kht9544/Server)
