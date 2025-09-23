@@ -11,15 +11,14 @@
 
 ### **Experience**
 - **2018.03 ~ 2024.09**: 수원대학교 정보통신학과 졸업
-- **2023.03 ~ 2023.11**: [수원대 졸업작품 얼굴인식 출석체크(임베디드 담당)](https://github.com/kht9544/FaceRecongnition)
-- **2023.11 ~ 2023.12**: [1인 언리얼 프로젝트 SimpleShooter (FPS) 제작](https://github.com/kht9544/SimpleShooter)
+- **2023.03 ~ 2023.12**: [수원대 졸업작품 얼굴인식 출석체크(임베디드 담당)](https://github.com/kht9544/FaceRecongnition)
 - **2024.01 ~ 2024.07**: Currently In Progress
 - **2024.08 ~ 2024.08**: [YPK_PRG V1.0 - 3인 언리얼 팀프로젝트 (RPG) 제작](https://github.com/kht9544/YPK_TeamProject)
 - **2024.09 ~ 2024.11**: [YP2K_RPG V2.0 - 4인 언리얼 메인 팀프로젝트 (RPG) 제작](https://github.com/kht9544/YP2K_MainProject)
 - **2024.12 ~ 2025.02**: Currently In Progress
 - **2025.02 ~ 2025.03**: [RoyalRun - 1인 유니티 프로젝트 ](https://github.com/kht9544/Royal_Run)
-- **2025.03 ~ **: [WARRIOR - 1인 언리얼 전투시스템 개발](https://github.com/kht9544/Warrior_Unreal)
-- 
+- **2025.03 ~ 2025.04**: [WARRIOR - 1인 언리얼 전투시스템 개발](https://github.com/kht9544/Warrior_Unreal)
+- **2025.05 ~          : (주)브리지 소프트웨어 개발자(반도체 테스트)
 - [코드 통합 레파지토리](https://github.com/kht9544/2024.5.30Unreal_kht)
 
 ### **Currently In Progress**
