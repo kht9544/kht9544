@@ -18,7 +18,7 @@
 - **2024.12 ~ 2025.02**: Currently In Progress
 - **2025.02 ~ 2025.03**: [RoyalRun - 1인 유니티 프로젝트 ](https://github.com/kht9544/Royal_Run)
 - **2025.03 ~ 2025.04**: [WARRIOR - 1인 언리얼 전투시스템 개발](https://github.com/kht9544/Warrior_Unreal)
-- **2025.05 ~          : (주)브리지 소프트웨어 개발자(반도체 테스트)
+- **2025.05 ~**        : (주)브리지 소프트웨어 개발자(반도체 테스트)
 - [코드 통합 레파지토리](https://github.com/kht9544/2024.5.30Unreal_kht)
 
 ### **Currently In Progress**
