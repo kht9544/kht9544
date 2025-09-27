@@ -1,12 +1,14 @@
 ## 포트폴리오
 
 ### **Skills**
-- ![Github](https://img.shields.io/badge/-Github-24292f?logo=github&logoColor=white),
-  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white),
-  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-003D60?logo=unrealengine&logoColor=white),
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white),
-  ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white)
-  ![SQL](https://img.shields.io/badge/-SQL-00618A?logo=sqlite&logoColor=white),
+- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-24292f?logo=github&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-003D60?logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-00618A?logo=sqlite&logoColor=white)
 
 
 ### **Experience**
