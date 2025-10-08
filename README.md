@@ -14,8 +14,8 @@
 ### **Experience**
 - **2018.03 ~ 2024.09**: 수원대학교 정보통신학과 졸업
 - **2023.03 ~ 2023.12**: [수원대 졸업작품 얼굴인식 출석체크(임베디드 담당)](https://github.com/kht9544/FaceRecongnition)
-- **2024.01 ~ 2024.07**: Currently In Progress
-- **2024.08 ~ 2024.11**: [YP2K_RPG V1.0/2.0 - 4인 언리얼 메인 팀프로젝트 (RPG) 제작](https://github.com/kht9544/YP2K_MainProject)
+- **2024.01 ~ 2024.03**: Currently In Progress
+- **2024.04 ~ 2024.11**: [YP2K_RPG V1.0/2.0 - 4인 언리얼 메인 팀프로젝트 (RPG) 제작](https://github.com/kht9544/YP2K_MainProject)
 - **2024.12 ~ 2025.02**: Currently In Progress
 - **2025.03 ~**        : [Project_Ashfall - 1인 언리얼 게임개발(진행 중)](https://github.com/kht9544/Project_Ashfall)
 - **2025.05 ~**        : (주)브리지 소프트웨어 개발자(C/C++)
